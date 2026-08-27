@@ -13,7 +13,4 @@ print("Starting the python journey can never be late ")
 
 print("Aspiring to become Data scientist in 2027 and 2028")
 
-#I got results of my 4th sem Btech and I am super happy that I got 9.36 SGPA ...Actually I wasn't expecting this much score. 
 
-
-# Somethimes I feel that we imagine the situation to the worst extent which it will not be in the reality. From now I won't doubt upon myself for anything  now  I believe that the  efforts  we put in our work will always pays you not immediately but sure for one day!!!!!
