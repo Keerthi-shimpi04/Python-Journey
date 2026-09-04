@@ -22,7 +22,12 @@ print(random_number)
 #random.shuffle(list)
 #print(list)    #[-4, 20, 10, 30, -5]
 
+a=random.uniform(1,3) #It always gives me the floating points btw the range...
+print(a)
 
+
+choice_1=random.choice(list)
+print(choice_1)
 
 
 
